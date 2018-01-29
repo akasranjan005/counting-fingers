@@ -2,4 +2,4 @@
 
 ## Count how many fingers are in the Image using Tensorflow
 
-This is my project from Deep Learning Specialization course of Coursera. Improved the accuracy to 83%.
+This is my project from Deep Learning Specialization Course. Improved the accuracy to 83% and working to improve further.....
